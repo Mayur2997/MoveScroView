@@ -8,6 +8,6 @@
 ## Screenshots
 
 
-<img src="" width="300" alt="Game View" align="left" hspace="16">
+<img src="" width="300" align="left" hspace="16">
 
-<img src="" alt="Game View" align="left" hspace="16">
+<img src=""  align="left" hspace="16">
