@@ -7,8 +7,10 @@
 
 ## Screenshots
 
-
+<img src="https://user-images.githubusercontent.com/40312017/68386468-14872980-0182-11ea-868d-a7f1a6c6434e.png"  align="left" hspace="16">
+   
 <img src="https://user-images.githubusercontent.com/40312017/68386466-13ee9300-0182-11ea-9710-58c676573f02.png" width="300" align="left" hspace="16">
 
-<img src="https://user-images.githubusercontent.com/40312017/68386468-14872980-0182-11ea-868d-a7f1a6c6434e.png)"  align="left" hspace="16">
- 
+
+   
+   
